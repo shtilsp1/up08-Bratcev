@@ -59,3 +59,34 @@ body{
     color: white;
     align-self: center;
 }
+
+/*2*/
+.main-content_content{
+    margin-top: 90px;
+}
+.left-side{
+    width: 570px;
+}
+
+.avengers{
+    color: white;
+    opacity: 50%;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 11px;
+    font-size: 24px;
+    line-height: 150%;
+}
+
+.title{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 23px;
+    font-size: 36px;
+}
+
+.text{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 150%;
+}
