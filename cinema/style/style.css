@@ -63,6 +63,7 @@ body{
 /*2*/
 .main-content_content{
     margin-top: 90px;
+    display: flex;
 }
 .left-side{
     width: 570px;
@@ -89,4 +90,14 @@ body{
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     line-height: 150%;
+}
+
+.play-button{
+    align-self: center;
+}
+
+.right-side{
+    align-items: center;
+    margin-left: 330px;
+    margin-top: 103px;
 }
